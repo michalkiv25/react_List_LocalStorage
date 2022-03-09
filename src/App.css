@@ -1,0 +1,43 @@
+/*componenta students  */
+thead tr th.title_table {
+  font-size: 23px;
+}
+
+.checkbox{
+  cursor:pointer
+}
+
+.delete{
+  margin-bottom: 50px;
+}
+
+
+/* componenta Header */
+
+.title{
+  text-align: center;
+  margin-bottom: 50px;
+  text-shadow: 12px 12px 12px grey;
+}
+
+/*componenta EditStudent */
+
+.buttonInput{
+  margin-top: 10px;
+}
+
+.cencel{
+  margin-left: 10px;
+  
+}
+
+.span{
+  color: red;
+}
+
+
+
+
+
+
+
